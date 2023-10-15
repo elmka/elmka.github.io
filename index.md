@@ -40,8 +40,9 @@ description: desc
 
 ## Instructions
 1. Do this
-2. Do that
+2. Do that<sup>1</sup>
 3. Exit
+> <sup>1</sup> This may not work on `Asdf OS`.
 
 ## Image
 
