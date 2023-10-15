@@ -22,7 +22,7 @@ description: desc
 <summary>Box thing</summary>
 
 | Rank | User      | Username |
-|-----:|-----------|----------|
+
 |     1| John      | aaa      |
 |     2| Matt      | asdsa    |
 |     3| Bob       | asdf     |
