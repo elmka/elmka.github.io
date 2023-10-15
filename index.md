@@ -40,7 +40,7 @@ description: desc
 
 ## Instructions
 1. Do this
-2. ~Do that~
+2. Do that
 3. Exit
 
 ## Image
