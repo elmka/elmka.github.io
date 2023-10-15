@@ -7,9 +7,9 @@ description: desc
 
 
 # My Site
-## [GitHub Pages](https://pages.github.com/) `details` element test
+## [GitHub Pages](https://pages.github.com/) `details` element test.
 
-<details>
+<details markdown="1">
   
 <summary>Colors</summary>
 
