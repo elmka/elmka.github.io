@@ -13,21 +13,16 @@ description: desc
   
 <summary>Colors</summary>
 
-* **Red**
-* **Yellow**
-* **Green**
+**Basic**
 
-</details>
+* Red
+* Yellow
+* Green
 
-<details>
-  
-<summary>Box thing</summary>
+**Other**
 
-| Rank | User      | Username |
-|:-----|-----------|----------|
-|     1| John      | aaa      |
-|     2| Matt      | asdsa    |
-|     3| Bob       | asdf     |
+* Black
+* White
 
 </details>
 
