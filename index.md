@@ -26,9 +26,21 @@ description: desc
 
 </details>
 
+<details markdown="1">
+  
+<summary>Users</summary>
+
+| User | Username | Status |
+| --- | --- | --- |
+| John | asdf | 1 |
+| Bob | qwer | 1 |
+| Mary | zxcv | 0 |
+
+</details>
+
 ## Instructions
 1. Do this
-2. Do that
+2. ~Do that~
 3. Exit
 
 ## Image
